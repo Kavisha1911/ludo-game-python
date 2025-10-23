@@ -91,4 +91,3 @@ while max_val!=56:
 
             else:
                 print("user-"+str(user_counter+1)+" invalid chance")
-
